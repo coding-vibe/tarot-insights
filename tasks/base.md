@@ -57,3 +57,16 @@ Implement caching for these endpoints:
 - list of saved results
 
 ## AI integration for combination
+
+## PRs list
+
+### First PR ✅
+
+1.  Implement comments in the service
+2.  Create folders in the app for tarot-card and tarot-spread. Move models to these folders and rename suffix from .model.ts to .interface.ts
+3.  Make all properties in tarotData camelCase and rename the file to tarot-data.ts
+
+### Second PR
+
+1.  Component for tarot card
+2.  Form for save of tarot spread
